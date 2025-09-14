@@ -1,0 +1,154 @@
+{
+  "properties": [
+    {
+      "id": "RENT001",
+      "title": "Modern 2BHK Apartment",
+      "price": "₹35,000/month",
+      "location": {
+        "address": "Vaishali Nagar, Jaipur",
+        "coordinates": { "lat": 26.9124, "lng": 75.7873 }
+      },
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1400,
+      "photos": ["https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": true,
+      "premium": true,
+      "description": "A fully furnished 2BHK apartment in a prime location with all modern amenities. Ideal for families and working professionals.",
+      "direction": "East",
+      "face": "East",
+      "sidePlane": "Apartment Complex",
+      "amenities": ["Furnished", "Gated Security", "Power Backup"],
+      "propertyType": "Apartment",
+      "furnishing": "Fully Furnished",
+      "parking": "1 Covered",
+      "floor": "3rd Floor",
+      "totalFloors": "7",
+      "age": "1-5 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Rental",
+      "overlooking": "Main Road",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance"],
+        "amenities": ["Gymnasium", "Clubhouse", "Elevator"],
+        "connectivity": ["Metro Connectivity", "Bus Connectivity"],
+        "lifestyle": ["Shopping Mall", "Hospital", "School"]
+      },
+      "priceDetails": {
+        "basePrice": "₹35,000",
+        "pricePerSqFt": "₹25",
+        "bookingAmount": "₹35,000",
+        "maintenanceCharges": "₹2,000/month",
+        "totalPrice": "₹37,000/month"
+      },
+      "loanDetails": {
+        "loanAvailable": false,
+        "bankApproved": false,
+        "emiStarts": ""
+      }
+    },
+    {
+      "id": "RENT002",
+      "title": "Independent House for Rent",
+      "price": "₹50,000/month",
+      "location": {
+        "address": "C-Scheme, Jaipur",
+        "coordinates": { "lat": 26.903, "lng": 75.8083 }
+      },
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 2200,
+      "photos": ["https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": false,
+      "premium": true,
+      "description": "Spacious independent house with a private garden and ample parking. Located in the heart of the city with excellent connectivity.",
+      "direction": "North",
+      "face": "North",
+      "sidePlane": "Residential Area",
+      "amenities": ["Private Garden", "Parking", "Servant Room"],
+      "propertyType": "House",
+      "furnishing": "Semi-Furnished",
+      "parking": "2 Covered",
+      "floor": "Ground + 1",
+      "totalFloors": "2",
+      "age": "5-10 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Rental",
+      "overlooking": "Garden/Park",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["Gated Colony"],
+        "amenities": ["Modular Kitchen", "Wardrobes"],
+        "connectivity": ["Main Road Access", "Public Transport"],
+        "lifestyle": ["Restaurants", "Cafes", "Markets"]
+      },
+      "priceDetails": {
+        "basePrice": "₹50,000",
+        "pricePerSqFt": "₹22",
+        "bookingAmount": "₹50,000",
+        "maintenanceCharges": "N/A",
+        "totalPrice": "₹50,000/month"
+      },
+      "loanDetails": {
+        "loanAvailable": false,
+        "bankApproved": false,
+        "emiStarts": ""
+      }
+    },
+    {
+      "id": "RENT003",
+      "title": "Luxury Penthouse with Terrace",
+      "price": "₹85,000/month",
+      "location": {
+        "address": "Jagatpura, Jaipur",
+        "coordinates": { "lat": 26.828, "lng": 75.858 }
+      },
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 3000,
+      "photos": ["https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": true,
+      "premium": true,
+      "description": "Exclusive penthouse with a private terrace garden, offering stunning city views and a luxurious living experience.",
+      "direction": "West",
+      "face": "West",
+      "sidePlane": "High-rise Building",
+      "amenities": ["Private Terrace", "Rooftop Garden", "Pool Access"],
+      "propertyType": "Penthouse",
+      "furnishing": "Semi-Furnished",
+      "parking": "2 Covered",
+      "floor": "12th Floor",
+      "totalFloors": "12",
+      "age": "0-1 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Rental",
+      "overlooking": "City Skyline",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "Power Backup",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Intercom"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Clubhouse"],
+        "connectivity": ["Airport Connectivity", "Main Road Access"],
+        "lifestyle": ["Fine Dining", "Shopping Mall"]
+      },
+      "priceDetails": {
+        "basePrice": "₹85,000",
+        "pricePerSqFt": "₹28",
+        "bookingAmount": "₹85,000",
+        "maintenanceCharges": "₹5,000/month",
+        "totalPrice": "₹90,000/month"
+      },
+      "loanDetails": {
+        "loanAvailable": false,
+        "bankApproved": false,
+        "emiStarts": ""
+      }
+    }
+  ]
+}

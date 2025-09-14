@@ -1,0 +1,528 @@
+{
+  "properties": [
+    {
+      "id": "LUXE001",
+      "title": "Warehouse",
+      "price": "20,000 sq yard",
+      "location": {
+        "address": "VDN, Jaipur",
+        "coordinates": {
+          "lat": 34.0736,
+          "lng": -118.4004
+        }
+      },
+      "direction": "North-East",
+      "face": "East",
+      "sidePlane": "Corner Plot",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 500,
+      "photos": [
+        "https://images.pexels.com/photos/33878357/pexels-photo-33878357.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1396221/pexels-photo-1396221.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-1.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Stunning modern villa with panoramic city views, infinity pool, and state-of-the-art amenities.",
+      "amenities": ["Swimming Pool", "Garden", "Garage", "Security System", "Modern Kitchen"],
+      "propertyType": "Villa",
+      "furnishing": "Semi-Furnished",
+      "parking": "2 Covered",
+      "floor": "Ground + 2",
+      "totalFloors": "3",
+      "age": "Under Construction",
+      "possession": "Ready to Move",
+      "transactionType": "New Property",
+      "overlooking": "Garden/Park",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Intercom Facility"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Clubhouse", "Children's Play Area", "Landscaped Gardens"],
+        "connectivity": ["Metro Connectivity", "Bus Connectivity", "Highway Connectivity"],
+        "lifestyle": ["Shopping Mall", "Hospital", "School", "Restaurant"]
+      },
+      "priceDetails": {
+        "basePrice": "€2,500,000",
+        "pricePerSqFt": "€714",
+        "bookingAmount": "€50,000",
+        "maintenanceCharges": "€200/month",
+        "totalPrice": "€2,550,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€8,500/month"
+      }
+    },
+    {
+      "id": "LUXE002",
+      "title": "Contemporary Penthouse",
+      "price": "€1.8 Million",
+      "location": {
+        "address": "Manhattan, NY",
+        "coordinates": {
+          "lat": 40.7831,
+          "lng": -73.9712
+        }
+      },
+      "direction": "South-West",
+      "face": "South",
+      "sidePlane": "High-rise Tower",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2800,
+      "photos": [
+        "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-2.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Sophisticated penthouse with floor-to-ceiling windows and breathtaking skyline views.",
+      "amenities": ["City Views", "Balcony", "Modern Appliances", "Concierge", "Gym Access"],
+      "propertyType": "Apartment",
+      "furnishing": "Fully Furnished",
+      "parking": "2 Covered",
+      "floor": "25th Floor",
+      "totalFloors": "30",
+      "age": "5-10 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Resale",
+      "overlooking": "City",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Access Control"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Spa", "Rooftop Garden", "Business Center"],
+        "connectivity": ["Metro Connectivity", "Airport Connectivity", "Highway Connectivity"],
+        "lifestyle": ["Shopping Mall", "Fine Dining", "Theater", "Art Gallery"]
+      },
+      "priceDetails": {
+        "basePrice": "€1,800,000",
+        "pricePerSqFt": "€643",
+        "bookingAmount": "€36,000",
+        "maintenanceCharges": "€300/month",
+        "totalPrice": "€1,836,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€6,100/month"
+      }
+    },
+    {
+      "id": "LUXE002",
+      "title": "Contemporary Penthouse",
+      "price": "€1.8 Million",
+      "location": {
+        "address": "Manhattan, NY",
+        "coordinates": {
+          "lat": 40.7831,
+          "lng": -73.9712
+        }
+      },
+      "direction": "South-West",
+      "face": "South",
+      "sidePlane": "High-rise Tower",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2800,
+      "photos": [
+        "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-2.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Sophisticated penthouse with floor-to-ceiling windows and breathtaking skyline views.",
+      "amenities": ["City Views", "Balcony", "Modern Appliances", "Concierge", "Gym Access"],
+      "propertyType": "Apartment",
+      "furnishing": "Fully Furnished",
+      "parking": "2 Covered",
+      "floor": "25th Floor",
+      "totalFloors": "30",
+      "age": "5-10 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Resale",
+      "overlooking": "City",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Access Control"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Spa", "Rooftop Garden", "Business Center"],
+        "connectivity": ["Metro Connectivity", "Airport Connectivity", "Highway Connectivity"],
+        "lifestyle": ["Shopping Mall", "Fine Dining", "Theater", "Art Gallery"]
+      },
+      "priceDetails": {
+        "basePrice": "€1,800,000",
+        "pricePerSqFt": "€643",
+        "bookingAmount": "€36,000",
+        "maintenanceCharges": "€300/month",
+        "totalPrice": "€1,836,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€6,100/month"
+      }
+    },
+    {
+      "id": "LUXE002",
+      "title": "Contemporary Penthouse",
+      "price": "€1.8 Million",
+      "location": {
+        "address": "Manhattan, NY",
+        "coordinates": {
+          "lat": 40.7831,
+          "lng": -73.9712
+        }
+      },
+      "direction": "South-West",
+      "face": "South",
+      "sidePlane": "High-rise Tower",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2800,
+      "photos": [
+        "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-2.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Sophisticated penthouse with floor-to-ceiling windows and breathtaking skyline views.",
+      "amenities": ["City Views", "Balcony", "Modern Appliances", "Concierge", "Gym Access"],
+      "propertyType": "Apartment",
+      "furnishing": "Fully Furnished",
+      "parking": "2 Covered",
+      "floor": "25th Floor",
+      "totalFloors": "30",
+      "age": "5-10 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Resale",
+      "overlooking": "City",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Access Control"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Spa", "Rooftop Garden", "Business Center"],
+        "connectivity": ["Metro Connectivity", "Airport Connectivity", "Highway Connectivity"],
+        "lifestyle": ["Shopping Mall", "Fine Dining", "Theater", "Art Gallery"]
+      },
+      "priceDetails": {
+        "basePrice": "€1,800,000",
+        "pricePerSqFt": "€643",
+        "bookingAmount": "€36,000",
+        "maintenanceCharges": "€300/month",
+        "totalPrice": "€1,836,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€6,100/month"
+      }
+    },
+    {
+      "id": "LUXE002",
+      "title": "Contemporary Penthouse",
+      "price": "€1.8 Million",
+      "location": {
+        "address": "Manhattan, NY",
+        "coordinates": {
+          "lat": 40.7831,
+          "lng": -73.9712
+        }
+      },
+      "direction": "South-West",
+      "face": "South",
+      "sidePlane": "High-rise Tower",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2800,
+      "photos": [
+        "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-2.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Sophisticated penthouse with floor-to-ceiling windows and breathtaking skyline views.",
+      "amenities": ["City Views", "Balcony", "Modern Appliances", "Concierge", "Gym Access"],
+      "propertyType": "Apartment",
+      "furnishing": "Fully Furnished",
+      "parking": "2 Covered",
+      "floor": "25th Floor",
+      "totalFloors": "30",
+      "age": "5-10 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Resale",
+      "overlooking": "City",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Access Control"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Spa", "Rooftop Garden", "Business Center"],
+        "connectivity": ["Metro Connectivity", "Airport Connectivity", "Highway Connectivity"],
+        "lifestyle": ["Shopping Mall", "Fine Dining", "Theater", "Art Gallery"]
+      },
+      "priceDetails": {
+        "basePrice": "€1,800,000",
+        "pricePerSqFt": "€643",
+        "bookingAmount": "€36,000",
+        "maintenanceCharges": "€300/month",
+        "totalPrice": "€1,836,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€6,100/month"
+      }
+    },
+    {
+      "id": "LUXE003",
+      "title": "Elegant Estate Villa",
+      "price": "€3.2 Million",
+      "location": {
+        "address": "Malibu, CA",
+        "coordinates": {
+          "lat": 34.0259,
+          "lng": -118.7798
+        }
+      },
+      "direction": "West",
+      "face": "West",
+      "sidePlane": "Oceanfront",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 4200,
+      "photos": [
+        "https://images.pexels.com/photos/1396221/pexels-photo-1396221.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-3.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Magnificent oceanfront estate with private beach access and world-class amenities.",
+      "amenities": ["Ocean Views", "Private Beach", "Wine Cellar", "Home Theater", "Chef's Kitchen"],
+      "propertyType": "Villa",
+      "furnishing": "Unfurnished",
+      "parking": "4 Covered",
+      "floor": "Ground + 2",
+      "totalFloors": "3",
+      "age": "1-5 Years",
+      "possession": "Ready to Move",
+      "transactionType": "New Property",
+      "overlooking": "Sea/Ocean",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Private Security"],
+        "amenities": ["Private Beach", "Infinity Pool", "Wine Cellar", "Home Theater", "Chef's Kitchen"],
+        "connectivity": ["Highway Connectivity", "Airport Connectivity"],
+        "lifestyle": ["Beach Club", "Marina", "Golf Course", "Spa Resort"]
+      },
+      "priceDetails": {
+        "basePrice": "€3,200,000",
+        "pricePerSqFt": "€762",
+        "bookingAmount": "€64,000",
+        "maintenanceCharges": "€500/month",
+        "totalPrice": "€3,264,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€10,800/month"
+      }
+    },
+    {
+      "id": "LUXE004",
+      "title": "Modern Waterfront Home",
+      "price": "€2.1 Million",
+      "location": {
+        "address": "Miami Beach, FL",
+        "coordinates": {
+          "lat": 25.7907,
+          "lng": -80.1300
+        }
+      },
+      "direction": "South-East",
+      "face": "East",
+      "sidePlane": "Waterfront",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 3200,
+      "photos": [
+        "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-4.mp4"
+      ],
+      "featured": false,
+      "premium": true,
+      "description": "Contemporary waterfront home with dock access and stunning bay views.",
+      "amenities": ["Water Views", "Private Dock", "Pool", "Modern Design", "Smart Home"],
+      "propertyType": "Villa",
+      "furnishing": "Semi-Furnished",
+      "parking": "3 Covered",
+      "floor": "Ground + 1",
+      "totalFloors": "2",
+      "age": "Under Construction",
+      "possession": "Ready to Move",
+      "transactionType": "New Property",
+      "overlooking": "Water Body",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Gated Community"],
+        "amenities": ["Private Dock", "Swimming Pool", "Boat Storage", "Waterfront Deck"],
+        "connectivity": ["Highway Connectivity", "Airport Connectivity", "Marina Access"],
+        "lifestyle": ["Yacht Club", "Water Sports", "Beach Access", "Fine Dining"]
+      },
+      "priceDetails": {
+        "basePrice": "€2,100,000",
+        "pricePerSqFt": "€656",
+        "bookingAmount": "€42,000",
+        "maintenanceCharges": "€350/month",
+        "totalPrice": "€2,142,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€7,100/month"
+      }
+    },
+    {
+      "id": "LUXE005",
+      "title": "Luxury Mountain Retreat",
+      "price": "€4.5 Million",
+      "location": {
+        "address": "Aspen, CO",
+        "coordinates": {
+          "lat": 39.1911,
+          "lng": -106.8175
+        }
+      },
+      "direction": "North",
+      "face": "North",
+      "sidePlane": "Mountain Slope",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 5500,
+      "photos": [
+        "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1396221/pexels-photo-1396221.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-5.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Exclusive mountain retreat with ski-in/ski-out access and panoramic alpine views.",
+      "amenities": ["Mountain Views", "Ski Access", "Fireplace", "Hot Tub", "Wine Room"],
+      "propertyType": "Villa",
+      "furnishing": "Fully Furnished",
+      "parking": "4 Covered",
+      "floor": "Ground + 2",
+      "totalFloors": "3",
+      "age": "1-5 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Resale",
+      "overlooking": "Mountain",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Private Gate"],
+        "amenities": ["Ski Access", "Hot Tub", "Wine Cellar", "Home Theater", "Fireplace"],
+        "connectivity": ["Highway Connectivity", "Airport Connectivity"],
+        "lifestyle": ["Ski Resort", "Mountain Club", "Spa", "Fine Dining"]
+      },
+      "priceDetails": {
+        "basePrice": "€4,500,000",
+        "pricePerSqFt": "€818",
+        "bookingAmount": "€90,000",
+        "maintenanceCharges": "€600/month",
+        "totalPrice": "€4,590,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€15,200/month"
+      }
+    },
+    {
+      "id": "LUXE006",
+      "title": "Designer City Apartment",
+      "price": "€1.9 Million",
+      "location": {
+        "address": "Downtown LA, CA",
+        "coordinates": {
+          "lat": 34.0522,
+          "lng": -118.2437
+        }
+      },
+      "direction": "South",
+      "face": "South",
+      "sidePlane": "Urban Tower",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1800,
+      "photos": [
+        "https://images.pexels.com/photos/1396221/pexels-photo-1396221.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-6.mp4"
+      ],
+      "featured": false,
+      "premium": true,
+      "description": "Sophisticated downtown apartment with designer finishes and city skyline views.",
+      "amenities": ["City Views", "Designer Kitchen", "Rooftop Access", "Valet Parking", "Concierge"],
+      "propertyType": "Apartment",
+      "furnishing": "Fully Furnished",
+      "parking": "1 Covered",
+      "floor": "15th Floor",
+      "totalFloors": "20",
+      "age": "1-5 Years",
+      "possession": "Ready to Move",
+      "transactionType": "Resale",
+      "overlooking": "City",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Concierge"],
+        "amenities": ["Rooftop Pool", "Gymnasium", "Valet Parking", "Business Center"],
+        "connectivity": ["Metro Connectivity", "Bus Connectivity", "Airport Connectivity"],
+        "lifestyle": ["Shopping Mall", "Theater", "Fine Dining", "Art Gallery"]
+      },
+      "priceDetails": {
+        "basePrice": "€1,900,000",
+        "pricePerSqFt": "€1,056",
+        "bookingAmount": "€38,000",
+        "maintenanceCharges": "€250/month",
+        "totalPrice": "€1,938,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€6,400/month"
+      }
+    }
+  ]
+}

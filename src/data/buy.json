@@ -1,0 +1,46 @@
+{
+  "properties": [
+    {
+      "id": "LUXE001",
+      "title": "Luxurious Modern Villa",
+      "price": "€2.5 Million",
+      "location": { "address": "Beverly Hills, CA" },
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 3500,
+      "photos": ["https://images.pexels.com/photos/33878357/pexels-photo-33878357.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": true,
+      "premium": true,
+      "description": "Stunning modern villa with panoramic city views, infinity pool, and state-of-the-art amenities."
+    },
+    {
+      "id": "LUXE001",
+      "title": "Luxurious Modern Villa",
+      "price": "€2.5 Million",
+      "location": { "address": "Beverly Hills, CA" },
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 3500,
+      "photos": ["https://images.pexels.com/photos/33878357/pexels-photo-33878357.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": true,
+      "premium": true,
+      "description": "Stunning modern villa with panoramic city views, infinity pool, and state-of-the-art amenities."
+    },
+    {
+      "id": "LUXE003",
+      "title": "Elegant Estate Villa",
+      "price": "€3.2 Million",
+      "location": { "address": "Malibu, CA" },
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 4200,
+      "photos": ["https://images.pexels.com/photos/33878357/pexels-photo-33878357.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": true,
+      "premium": true,
+      "description": "Magnificent oceanfront estate with private beach access and world-class amenities."
+    }
+  ]
+}
