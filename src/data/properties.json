@@ -61,6 +61,66 @@
       }
     },
     {
+      "id": "LUXE011",
+      "title": "ghar",
+      "price": "400",
+      "location": {
+        "address": "jaipur raj",
+        "coordinates": {
+          "lat": 34.0736,
+          "lng": -118.4004
+        }
+      },
+      "direction": "North-East",
+      "face": "East",
+      "sidePlane": "Corner Plot",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 500,
+      "photos": [
+
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1396221/pexels-photo-1396221.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "videos": [
+        "https://example.com/property-tour-1.mp4"
+      ],
+      "featured": true,
+      "premium": true,
+      "description": "Stunning modern villa with panoramic city views, infinity pool, and state-of-the-art amenities.",
+      "amenities": ["Swimming Pool", "Garden", "Garage", "Security System", "Modern Kitchen"],
+      "propertyType": "Villa",
+      "furnishing": "Semi-Furnished",
+      "parking": "2 Covered",
+      "floor": "Ground + 2",
+      "totalFloors": "3",
+      "age": "Under Construction",
+      "possession": "Ready to Move",
+      "transactionType": "New Property",
+      "overlooking": "Garden/Park",
+      "waterAvailability": "24 Hours",
+      "statusOfElectricity": "No/Rare Powercut",
+      "features": {
+        "security": ["24x7 Security", "CCTV Surveillance", "Intercom Facility"],
+        "amenities": ["Swimming Pool", "Gymnasium", "Clubhouse", "Children's Play Area", "Landscaped Gardens"],
+        "connectivity": ["Metro Connectivity", "Bus Connectivity", "Highway Connectivity"],
+        "lifestyle": ["Shopping Mall", "Hospital", "School", "Restaurant"]
+      },
+      "priceDetails": {
+        "basePrice": "€2,500,000",
+        "pricePerSqFt": "",
+        "bookingAmount": "€50,000",
+        "maintenanceCharges": "€200/month",
+        "totalPrice": "€2,550,000"
+      },
+      "loanDetails": {
+        "loanAvailable": true,
+        "bankApproved": true,
+        "emiStarts": "€8,500/month"
+      }
+    },
+    {
       "id": "LUXE002",
       "title": "Contemporary Penthouse",
       "price": "€1.8 Million",

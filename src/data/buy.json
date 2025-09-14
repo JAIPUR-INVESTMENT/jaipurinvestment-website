@@ -28,6 +28,20 @@
       "premium": true,
       "description": "Stunning modern villa with panoramic city views, infinity pool, and state-of-the-art amenities."
     },
+     {
+      "id": "LUXE011",
+      "title": "ghar",
+      "price": "400",
+      "location": { "address": "jaipur raj" },
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 3500,
+      "photos": ["https://images.pexels.com/photos/33878357/pexels-photo-33878357.jpeg?auto=compress&cs=tinysrgb&w=800"],
+      "videos": [],
+      "featured": true,
+      "premium": true,
+      "description": "Stunning modern villa with panoramic city views, infinity pool, and state-of-the-art amenities."
+    },
     {
       "id": "LUXE003",
       "title": "Elegant Estate Villa",
